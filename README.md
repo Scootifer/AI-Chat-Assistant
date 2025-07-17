@@ -5,9 +5,9 @@ This project began out of my personal curiosity to run an llm locally, utilize a
 In just a few short days this project took off in idea and potential. This is the beginning version of it to be shared with the world as a simple starting point for your own AI LLM chat service.
 
 Setup;
-Clone the repo 
-Fill in the .env file 
-Build with docker. "docker compose up --build"
+Clone the repo.
+Fill in the .env file .
+Build with docker. "docker compose up --build".
 You will need to download the model of your chosing through the ollama service in the docker instance. NOTE: Models other than llama3 will require some manual code fixing.
 
 
